@@ -6,16 +6,22 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=hyojii00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyojii00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+![Followers](https://img.shields.io/github/followers/hyojii00?style=for-the-badge&logo=github&labelColor=1a1b27&color=8E54E9)
+![Stars](https://img.shields.io/github/stars/hyojii00?style=for-the-badge&logo=github&labelColor=1a1b27&color=4776E6&affiliations=OWNER)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=hyojii00&theme=tokyonight&hide_border=true" />
+## 🐍 Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
+  <img alt="snake eating contributions" src="dist/github-contribution-grid-snake.svg">
+</picture>
 
 <br/>
+
+## 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=hyojii00&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
 
