@@ -23,7 +23,7 @@
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=hyojii00&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
+<img src="dist/github-profile-trophies.svg" alt="GitHub profile trophies" />
 
 <br/>
 
